@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1697463824 source:c:\users\hrishikesh\onedrive\desktop\graphics\quickhull\main.cpp
+	<iostream>
+	<graphics.h>
+	<unistd.h>
+
